@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "k.kundan",
+        "MONGO_ATLAS_DNAME": "node-rest-shop"
+    }
+}
